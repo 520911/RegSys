@@ -5,6 +5,4 @@
 
 2. Коллаборативная фильтрация [ссылка](https://github.com/520911/RegSys/blob/main/RSML_2.ipynb)
 
-
-
-
+3. Гибридные системы LightFM [ссылка](https://github.com/520911/RegSys/blob/main/RSML_3.ipynb)
